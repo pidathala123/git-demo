@@ -11,6 +11,10 @@ public class App
 	{
 		
 		System.out.println("data=" +data);
+		if(data.equals("peit"))
+		{
+			System.out.println("welcome peit");
+		}
 		
 	}
     public static void main( String[] args )
