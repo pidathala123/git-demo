@@ -17,6 +17,8 @@ public class Order {
 		this.empno = empno;
 	}
 	
-	
+	public static void main(String[] args) {
+		 ArrayList<String> l=new ArrayList<String>();
+	}
 
 }
